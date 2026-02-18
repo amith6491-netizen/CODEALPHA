@@ -1,0 +1,51 @@
+hello@gmail.com
+test@yahoo.com
+admin@outlook.com
+hello@gmail.com
+admin@gmail.com
+user1@gmail.com
+user2@yahoo.com
+user3@yahoo.com
+admin@gmail.com
+contact@business.org
+info@business.org
+support@business.org
+user1@gmail.com
+
+Customer Details:
+
+Name: Amit
+Email: amit123@gmail.com
+Phone: 9876543210
+
+Name: Rahul
+Email: rahul.dev@yahoo.com
+Phone: 9123456780
+
+Emergency Contact: 9988776655
+Office Email: contact@mycompany.org
+
+
+9876543210
+9123456780
+9988776655
+9876543210
+
+
+Valid emails:
+correct.email@gmail.com
+user_name123@yahoo.com
+
+Invalid emails:
+wrong@email
+test@.com
+@domain.com
+
+
+
+The meeting was scheduled on Monday. 
+You can confirm attendance by emailing projectlead@startup.io.
+Backup contact: backup.person@domain.co.in
+
+Some random text here.
+Another email: test_user123@abc.com
