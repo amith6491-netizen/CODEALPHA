@@ -2,11 +2,11 @@ import csv
 
 # Hardcoded stock prices
 stock_prices = {
-    "AAPL": 180,
+    "APPLE": 180,
     "TSLA": 250,
-    "GOOG": 2700,
-    "MSFT": 300,
-    "AMZN": 3500
+    "GOOGLE": 2700,
+    "MICROSOFT": 300,
+    "AMOZON": 3500
 }
 
 portfolio = {}
