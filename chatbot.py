@@ -97,7 +97,167 @@ responses = {
     "what is microcontroller": "Microcontroller controls hardware.",
     "what is android": "Android is mobile OS.",
     "what is ios": "iOS is Apple's mobile OS.",
-    "bye": "Goodbye! 👋"
+    
+
+    # History
+    "who is the father of the nation of india": "Mahatma Gandhi is known as the Father of the Nation of India.",
+    "who was the first prime minister of india": "Jawaharlal Nehru was the first Prime Minister of India.",
+    "who was the first president of india": "Dr. Rajendra Prasad was the first President of India.",
+    "when did india get independence": "India got independence in 1947.",
+    "who discovered america": "Christopher Columbus discovered America in 1492.",
+    "who was the first man on the moon": "Neil Armstrong was the first man to walk on the Moon.",
+
+    # Geography
+    "what is the capital of india": "The capital of India is New Delhi.",
+    "what is the capital of france": "The capital of France is Paris.",
+    "what is the largest ocean": "The Pacific Ocean is the largest ocean in the world.",
+    "what is the longest river": "The Nile River is the longest river in the world.",
+    "which is the largest continent": "Asia is the largest continent.",
+    "which is the smallest continent": "Australia is the smallest continent.",
+
+    # Science
+    "what is the chemical formula of water": "The chemical formula of water is H2O.",
+    "which planet is known as red planet": "Mars is known as the Red Planet.",
+    "what gas do humans breathe": "Humans breathe oxygen.",
+    "what is the powerhouse of the cell": "Mitochondria is the powerhouse of the cell.",
+    "what is the boiling point of water": "The boiling point of water is 100 degrees Celsius.",
+    "what is the speed of light": "The speed of light is approximately 299,792 kilometers per second.",
+
+    # India GK
+    "what is the national animal of india": "The national animal of India is the Tiger.",
+    "what is the national bird of india": "The national bird of India is the Peacock.",
+    "what is the national flower of india": "The national flower of India is the Lotus.",
+    "what is the national anthem of india": "The national anthem of India is Jana Gana Mana.",
+    "what is the national sport of india": "Hockey is considered the national sport of India.",
+
+    # Sports
+    "how many players are there in a cricket team": "There are 11 players in a cricket team.",
+    "who is known as the god of cricket": "Sachin Tendulkar is known as the God of Cricket.",
+    "which country won 2011 cricket world cup": "India won the 2011 Cricket World Cup.",
+
+    # Computer & Technology
+    "what does cpu stand for": "CPU stands for Central Processing Unit.",
+    "what does ram stand for": "RAM stands for Random Access Memory.",
+    "what does www stand for": "WWW stands for World Wide Web.",
+    "what does html stand for": "HTML stands for HyperText Markup Language.",
+    "what does ai stand for": "AI stands for Artificial Intelligence.",
+
+    # Mixed GK
+    "what is the largest animal in the world": "The Blue Whale is the largest animal in the world.",
+    "how many continents are there": "There are 7 continents in the world.",
+    "how many days are there in leap year": "There are 366 days in a leap year.",
+    "what is the currency of japan": "The currency of Japan is Yen.",
+    "who wrote ramayana": "The Ramayana was written by Valmiki.",
+
+    # 🌍 Geography
+    "what is the capital of india" : "New Delhi",
+"what is the capital of france": "Paris",
+"what is the capital of japan": "Tokyo",
+"what is the largest continent": "Asia",
+"which is the longest river in the world": "Nile River",
+"which is the highest mountain in the world": "Mount Everest",
+"which ocean is the largest": "Pacific Ocean",
+"which desert is the largest": "Sahara Desert",
+"what is the capital of karnataka": "Bengaluru",
+"which country has the largest population": "India",
+
+# 🏛 History
+"who is the father of nation india": "Mahatma Gandhi",
+"who invented the telephone": "Alexander Graham Bell",
+"who discovered india": "Vasco da Gama",
+"who was the first prime minister of india": "Jawaharlal Nehru",
+"who was the first president of india": "Dr. Rajendra Prasad",
+"when did india get independence": "15 August 1947",
+"who was the first man on the moon": "Neil Armstrong",
+"which war ended in 1945": "World War II",
+"who built the taj mahal": "Shah Jahan",
+"who was known as iron man of india": "Sardar Vallabhbhai Patel",
+
+# 🔬 Science
+"what is h2o": "Water",
+"what planet is known as red planet": "Mars",
+"which gas do plants absorb": "Carbon Dioxide",
+"which organ pumps blood": "Heart",
+"what is the boiling point of water": "100 degree Celsius",
+"which is the nearest star to earth": "Sun",
+"what is the chemical symbol of gold": "Au",
+"who discovered gravity": "Isaac Newton",
+"which vitamin do we get from sunlight": "Vitamin D",
+"what is the hardest natural substance": "Diamond",
+
+# 💻 Computer
+"who is father of computer": "Charles Babbage",
+"what does cpu stand for": "Central Processing Unit",
+"what does ram stand for": "Random Access Memory",
+"what is html": "HyperText Markup Language",
+"what is css": "Cascading Style Sheets",
+"what is python": "A programming language",
+"what is the brain of computer": "CPU",
+"what does ip stand for": "Internet Protocol",
+"what is full form of http": "HyperText Transfer Protocol",
+"which key is used to refresh page": "F5",
+
+# 🏏 Sports
+"who is known as god of cricket": "Sachin Tendulkar",
+"which country won world cup 2011": "India",
+"how many players in football team": "11",
+"how many players in cricket team": "11",
+"which sport uses racket": "Tennis",
+"where were olympics 2021 held": "Tokyo",
+"which country hosts ipl": "India",
+"who is ms dhoni": "Former Indian Cricket Captain",
+"which sport is called king of sports": "Football",
+"how many rings in olympic flag": "5",
+
+# 📚 Literature
+"who wrote ramayana": "Valmiki",
+"who wrote mahabharata": "Vyasa",
+"who wrote romeo and juliet": "William Shakespeare",
+"who wrote harry potter": "J K Rowling",
+"who wrote geetanjali": "Rabindranath Tagore",
+"which is national song of india": "Vande Mataram",
+"which is national anthem of india": "Jana Gana Mana",
+"who is known as nightingale of india": "Sarojini Naidu",
+"who wrote discovery of india": "Jawaharlal Nehru",
+"who wrote wings of fire": "A P J Abdul Kalam",
+
+# 🎬 Entertainment
+"who is called king of bollywood": "Shah Rukh Khan",
+"who is called megastar of bollywood": "Amitabh Bachchan",
+"who directed bahubali": "S S Rajamouli",
+"who played iron man": "Robert Downey Jr",
+"which movie won oscar in 2023": "Everything Everywhere All at Once",
+"who is known as thala": "Ajith Kumar",
+"who is known as superstar of kollywood": "Rajinikanth",
+"which is highest grossing indian movie": "Dangal",
+"who composed national anthem of india": "Rabindranath Tagore",
+"who sang kesariya song": "Arijit Singh",
+
+# 🧠 General
+"how many states in india": "28",
+"how many union territories in india": "8",
+"which is smallest state in india": "Goa",
+"which is largest state in india": "Rajasthan",
+"currency of india": "Indian Rupee",
+"currency of usa": "US Dollar",
+"which day is celebrated as republic day": "26 January",
+"which day is celebrated as independence day": "15 August",
+"who is current prime minister of india": "Narendra Modi",
+"who is current president of india": "Droupadi Murmu",
+
+# ➕ Extra
+"how many bones in human body": "206",
+"how many days in a year": "365",
+"how many colors in rainbow": "7",
+"which animal is known as king of jungle": "Lion",
+"which bird is national bird of india": "Peacock",
+"which flower is national flower of india": "Lotus",
+"which animal is national animal of india": "Tiger",
+"which fruit is national fruit of india": "Mango",
+"which tree is national tree of india": "Banyan Tree",
+"which game is national game of india": "Hockey",
+"bye": "Goodbye! 👋"
+
 }
 # -----------------------------
 # Utility Functions
