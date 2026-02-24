@@ -98,57 +98,6 @@ responses = {
     "what is android": "Android is mobile OS.",
     "what is ios": "iOS is Apple's mobile OS.",
     
-
-    # History
-    "who is the father of the nation of india": "Mahatma Gandhi is known as the Father of the Nation of India.",
-    "who was the first prime minister of india": "Jawaharlal Nehru was the first Prime Minister of India.",
-    "who was the first president of india": "Dr. Rajendra Prasad was the first President of India.",
-    "when did india get independence": "India got independence in 1947.",
-    "who discovered america": "Christopher Columbus discovered America in 1492.",
-    "who was the first man on the moon": "Neil Armstrong was the first man to walk on the Moon.",
-
-    # Geography
-    "what is the capital of india": "The capital of India is New Delhi.",
-    "what is the capital of france": "The capital of France is Paris.",
-    "what is the largest ocean": "The Pacific Ocean is the largest ocean in the world.",
-    "what is the longest river": "The Nile River is the longest river in the world.",
-    "which is the largest continent": "Asia is the largest continent.",
-    "which is the smallest continent": "Australia is the smallest continent.",
-
-    # Science
-    "what is the chemical formula of water": "The chemical formula of water is H2O.",
-    "which planet is known as red planet": "Mars is known as the Red Planet.",
-    "what gas do humans breathe": "Humans breathe oxygen.",
-    "what is the powerhouse of the cell": "Mitochondria is the powerhouse of the cell.",
-    "what is the boiling point of water": "The boiling point of water is 100 degrees Celsius.",
-    "what is the speed of light": "The speed of light is approximately 299,792 kilometers per second.",
-
-    # India GK
-    "what is the national animal of india": "The national animal of India is the Tiger.",
-    "what is the national bird of india": "The national bird of India is the Peacock.",
-    "what is the national flower of india": "The national flower of India is the Lotus.",
-    "what is the national anthem of india": "The national anthem of India is Jana Gana Mana.",
-    "what is the national sport of india": "Hockey is considered the national sport of India.",
-
-    # Sports
-    "how many players are there in a cricket team": "There are 11 players in a cricket team.",
-    "who is known as the god of cricket": "Sachin Tendulkar is known as the God of Cricket.",
-    "which country won 2011 cricket world cup": "India won the 2011 Cricket World Cup.",
-
-    # Computer & Technology
-    "what does cpu stand for": "CPU stands for Central Processing Unit.",
-    "what does ram stand for": "RAM stands for Random Access Memory.",
-    "what does www stand for": "WWW stands for World Wide Web.",
-    "what does html stand for": "HTML stands for HyperText Markup Language.",
-    "what does ai stand for": "AI stands for Artificial Intelligence.",
-
-    # Mixed GK
-    "what is the largest animal in the world": "The Blue Whale is the largest animal in the world.",
-    "how many continents are there": "There are 7 continents in the world.",
-    "how many days are there in leap year": "There are 366 days in a leap year.",
-    "what is the currency of japan": "The currency of Japan is Yen.",
-    "who wrote ramayana": "The Ramayana was written by Valmiki.",
-
     # 🌍 Geography
     "what is the capital of india" : "New Delhi",
 "what is the capital of france": "Paris",
