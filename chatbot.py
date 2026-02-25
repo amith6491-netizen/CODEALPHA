@@ -269,8 +269,8 @@ def get_response(user_input):
     else:
         return "Sorry, I don't understand that."
 
-def chatbot():
-    print("🤖 Chatbot Ready! Type 'bye' to exit.\n")
+def chatbot(username):
+    print(f"🤖 Welcome {username}! Chatbot Ready! Type 'bye' to exit.\n")
 
     while True:
         user_input = input("You: ").lower()
@@ -281,6 +281,7 @@ def chatbot():
             print("Bot: Sorry, I don't know that yet.")
 
         if user_input == "bye":
+            print("🤖 Chatbot says: Goodbye! 👋")
             break
 
 # -----------------------------
@@ -311,5 +312,5 @@ def main():
         else:
             print("❌ Invalid choice!\n")
 
-
-chatbot()
+if __name__ == "__main__":
+    main()

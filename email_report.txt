@@ -1,33 +1,33 @@
 📧 Extracted Email Addresses
 ========================================
-user3@yahoo.com
-info@business.org
-hello@gmail.com
-support@business.org
-backup.person@domain.co.in
-user1@gmail.com
-rahul.dev@yahoo.com
-admin@outlook.com
-test_user123@abc.com
-user2@yahoo.com
-test@yahoo.com
-contact@business.org
 contact@mycompany.org
 user_name123@yahoo.com
-admin@gmail.com
-projectlead@startup.io
+test@yahoo.com
+user3@yahoo.com
+user1@gmail.com
 amit123@gmail.com
 correct.email@gmail.com
+contact@business.org
+rahul.dev@yahoo.com
+test_user123@abc.com
+admin@outlook.com
+hello@gmail.com
+support@business.org
+info@business.org
+admin@gmail.com
+backup.person@domain.co.in
+user2@yahoo.com
+projectlead@startup.io
 
 📊 Domain Summary
 ========================================
-yahoo.com : 5
-business.org : 3
-gmail.com : 5
-domain.co.in : 1
-outlook.com : 1
-abc.com : 1
 mycompany.org : 1
+yahoo.com : 5
+gmail.com : 5
+business.org : 3
+abc.com : 1
+outlook.com : 1
+domain.co.in : 1
 startup.io : 1
 
 Total Unique Emails: 18
